@@ -4,4 +4,4 @@ build three tier vpc in aws with web, app and db. will create it using the VPC, 
 
 manual build - will help to know what we are exactly doing.
 
-![Screenshot](image.png)
+![Screenshot](docs/image.png)
